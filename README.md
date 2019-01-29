@@ -10,6 +10,9 @@
 	<a href="https://goreportcard.com/report/github.com/thinkoner/thinkgo">
 		<img src="https://goreportcard.com/badge/github.com/thinkoner/thinkgo" alt="Go Report Card">
   	</a>
+	<a href="https://codeclimate.com/github/thinkoner/thinkgo/maintainability">
+		<img src="https://api.codeclimate.com/v1/badges/c315fda3b07b5aef3529/maintainability" />
+	</a>
 	<a href="https://godoc.org/github.com/thinkoner/thinkgo">
 		<img src="https://godoc.org/github.com/thinkoner/thinkgo?status.svg" alt="GoDoc">
   	</a>
